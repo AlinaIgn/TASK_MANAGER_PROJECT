@@ -12,13 +12,14 @@ Features:
 User Registration and Authentication:
 Users can sign up for an account and log in to manage their tasks.
 
-Task Management
+Task Management:
 Users can create, edit, and delete tasks.
 Tasks include fields for title, description, due date, priority, category, and completion status.
-Task Categories
+
+Task Categories:
 Users can categorize their tasks to help organize and filter them.
 
-Due Dates
+Due Dates:
 Users can assign due dates to tasks, helping them keep track of deadlines.
 
 
