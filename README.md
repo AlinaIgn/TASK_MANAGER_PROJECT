@@ -60,3 +60,7 @@ Django: Version 3.x, a high-level Python web framework.
 A Modern Web Browser: To access and interact with the application.
 Virtual Environment (optional but recommended): To isolate project dependencies.
 
+
+Contributing:
+Contributions are welcome! If you'd like to improve this project, please submit issues or pull requests. Your contributions can help make this project even better.
+
