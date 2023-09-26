@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Task Manager Project:
 
 The Task Manager Project is a versatile web-based task management application built using Django. It empowers users to efficiently manage their tasks, categorize them, assign due dates, and prioritize their workload. This README will guide you through setting up, using, and customizing the project to meet your specific needs.
