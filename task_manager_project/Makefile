@@ -31,3 +31,4 @@ shell:
 
 
 .PHONY: runserver migrate createsuperuser test clean shell
+git pull --tags origin main
